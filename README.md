@@ -24,8 +24,8 @@ db-lab/
 
 ── mysql/
  ── init/
-  ── 01_schema.sql # Створення таблиць
-  ── 02_data.sql # Початкові дані
+  ── 01_schema.sql 
+  ── 02_data.sql 
 
  ── nginx/
   ── conf.d/
