@@ -13,26 +13,25 @@
 ## Структура проєкту
 
 db-lab/
-── app/
- ── public/
-  ── index.php 
- ── src/
-  ── Database.php 
-  ── views/ 
-  ── .env 
-  ── .env.example 
-
-── mysql/
- ── init/
-  ── 01_schema.sql 
-  ── 02_data.sql 
-
- ── nginx/
-  ── conf.d/
-  ── default.conf 
-
- ── docker-compose.yml 
- ── README.md
+- app/
+-  public/
+-  index.php
+-  src/
+-   Database.php
+-   views/
+-   .env
+-   .env.example
+ 
+-   mysql/
+-   init/
+-   01_schema.sql
+-   02_data.sql
+ 
+-   nginx/
+-   conf.d/
+-   default.conf
+-   docker-compose.yml
+-   README.md
 
  ## Інструкція запуску
 
